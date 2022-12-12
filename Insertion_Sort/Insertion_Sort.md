@@ -21,4 +21,5 @@
 ### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
 - <b>Best case:</b>Aradığımız sayının dizinin en başında olması<br>
   [18,.,.,.,.,.,.,]
-- <b>Average case:</b> Aradığımız sayının ortada olması
+- <b>Average case:</b> Aradığımız sayının ortada olması<br>
+[.,.,.,18,.,.,.] 
