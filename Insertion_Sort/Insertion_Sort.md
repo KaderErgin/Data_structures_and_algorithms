@@ -7,5 +7,12 @@
 3. [2,6,16,18,22,27] Üçüncü en küçük sayı ```16```'dır,sıralama doğru olduğu için herhangi bir değişiklik yapılmaz.Dördüncü en küçük sayı ```18```'dir ve sıralamaya doğru olması için ```22``` ile yer değiştirir.Beşinci ve altıncı sayıların sıralaması doğru olduğu için sıralamada değişiklik yapılmaz.
 ***
 ### 2) Big-O gösterimini yazınız.
-Dizinin eleman sayısına n dersek işlem sayısı da n olur. Son işlem sayısı 1 olana kadar devam eder.
-```[22,27,16,2,18,6]``` dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacaktır demektir.
+ Dizinin eleman sayısına n dersek işlem sayısı da n olur.<br>
+- ```[22,27,16,2,18,6]``` dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacaktır demektir.
+- ilk adımda n tane(büyük mü?,küçük mü? diye tüm elemanlara bakarız en küçük elemanı buluruz) yani-> 6 işlem .
+- ikinci adımda en küçük elemandan sonraki elemanı bulmak için (n-1)-> 6-1=5 işlem
+- Üçüncü adımda ilk iki en küçük elemandan sonraki en küçük elemanı bulmak için  (n-2)-> 6-2=4 işlem
+- Dördüncü adımda ilk üç en küçük elemandan sonraki en küçük elemanı bulmak için (n-3)-> 6-3=3 işlem
+- Beşinci adımda ilk dört en küçük elemandan sonraki en küçük elemanı bulmak için (n-4)-> 6-4=2 işlem.Altı elemanlı bir dizi olduğu için işlem yapılmasına gerek yoktur sona kalan altıncı elemandır.
+- n+(n-1)+(n-2)+(n-3)+(n-4)+1 kadar işlem yapılır.Bu işlemin formülü:[n(n+1)]/2 (birden n'e kadar olan sayıların toplamı)sadeleştirdiğimizde ise (n²+n)/2
+- Big-o Notationda domine eden fonksiyonu aldığımız için ````n²```` değerini alırız.
