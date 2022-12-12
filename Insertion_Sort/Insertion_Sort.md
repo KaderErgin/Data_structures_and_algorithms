@@ -25,4 +25,4 @@
   [.,.,.,18,.,.,.] 
 - <b>Worst case:</b> Aradığımız sayının sonda olması<br>
   [.,.,.,.,.,.,18]
-- [2,6,16,18,22,27] dizisine bakıldığında 18 sayısı ortada olduğu için ```Average Case``` kapsamına girer.
+- [2,6,16,18,22,27] dizisine baktığımızda 18 sayısı orta kısımda olduğu için ```<b>Average Case</b>``` kapsamına girer.
