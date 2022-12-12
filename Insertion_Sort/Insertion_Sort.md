@@ -7,3 +7,4 @@
 3. [2,6,16,18,22,27] Üçüncü en küçük sayı ```16```'dır,sıralama doğru olduğu için herhangi bir değişiklik yapılmaz.Dördüncü en küçük sayı ```18```'dir ve sıralamaya doğru olması için ```22``` ile yer değiştirir.Beşinci ve altıncı sayıların sıralaması doğru olduğu için sıralamada değişiklik yapılmaz.
 ***
 ### 2) Big-O gösterimini yazınız.
+Dizinin eleman sayısına n dersek işlem sayısı da n olur. Son işlem sayısı 1 olana kadar devam eder.
