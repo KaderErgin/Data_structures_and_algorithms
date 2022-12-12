@@ -8,7 +8,7 @@
 ***
 ### 2) Big-O gösterimini yazınız.
  Dizinin eleman sayısına n dersek işlem sayısı da n olur.<br>
-- ```[22,27,16,2,18,6]``` dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacaktır demektir.
+- ```[22,27,16,2,18,6]``` dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacak demektir.
 - ilk adımda n tane(büyük mü?,küçük mü? diye tüm elemanlara bakarız en küçük elemanı buluruz) yani-> 6 işlem .
 - ikinci adımda en küçük elemandan sonraki elemanı bulmak için (n-1)-> 6-1=5 işlem
 - Üçüncü adımda ilk iki en küçük elemandan sonraki en küçük elemanı bulmak için  (n-2)-> 6-2=4 işlem
