@@ -6,4 +6,4 @@
 2. [2,```6```,16,22,18,```27```] İkinci küçük sayı ```6```'dır ikinci sıraya gelebilmesi için ```27``` ile yer değiştirir.
 3. [2,6,16,18,22,27] Üçüncü en küçük sayı ```16```'dır,sıralama doğru olduğu için herhangi bir değişiklik yapılmaz.Dördüncü en küçük sayı ```18```'dir ve sıralamaya doğru olması için ```22``` ile yer değiştirir.Beşinci ve altıncı sayıların sıralaması doğru olduğu için sıralamada değişiklik yapılmaz.
 ***
-#### 2) Big-O gösterimini yazınız.
+### 2) Big-O gösterimini yazınız.
