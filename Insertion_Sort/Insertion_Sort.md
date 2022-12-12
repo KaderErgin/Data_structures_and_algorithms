@@ -22,4 +22,5 @@
 - <b>Best case:</b>Aradığımız sayının dizinin en başında olması<br>
   [18,.,.,.,.,.,.,]
 - <b>Average case:</b> Aradığımız sayının ortada olması<br>
-[.,.,.,18,.,.,.] 
+  [.,.,.,18,.,.,.] 
+- Worst case: Aradığımız sayının sonda olması
