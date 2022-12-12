@@ -23,4 +23,5 @@
   [18,.,.,.,.,.,.,]
 - <b>Average case:</b> Aradığımız sayının ortada olması<br>
   [.,.,.,18,.,.,.] 
-- <b>Worst case:</b> Aradığımız sayının sonda olması
+- <b>Worst case:</b> Aradığımız sayının sonda olması<br>
+  [.,.,.,.,.,.,18]
