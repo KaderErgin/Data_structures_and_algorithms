@@ -28,3 +28,6 @@
 - [2,6,16,18,22,27] dizisine baktığımızda 18 sayısı orta kısımda olduğu için <b>```Average Case```</b> kapsamına girer.
 ***
 ### 4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+1.Adım [2,|3,5,8,7,9,4,15,6] 
+
+[Patika.dev](https://app.patika.dev/kadergin)
