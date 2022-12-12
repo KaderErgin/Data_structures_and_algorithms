@@ -8,3 +8,4 @@
 ***
 ### 2) Big-O gösterimini yazınız.
 Dizinin eleman sayısına n dersek işlem sayısı da n olur. Son işlem sayısı 1 olana kadar devam eder.
+```[22,27,16,2,18,6]``` dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacaktır demektir.
