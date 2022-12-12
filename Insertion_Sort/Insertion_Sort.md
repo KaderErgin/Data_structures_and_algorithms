@@ -19,3 +19,4 @@
 ### Big-O değeri = O(n²)
 ***
 ### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+Best case: Aradığımız sayının dizinin en başında olması
