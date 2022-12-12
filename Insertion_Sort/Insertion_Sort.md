@@ -16,3 +16,5 @@
 - Beşinci adımda ilk dört en küçük elemandan sonraki en küçük elemanı bulmak için (n-4)-> 6-4=2 işlem.Altı elemanlı bir dizi olduğu için işlem yapılmasına gerek yoktur sona kalan altıncı elemandır.
 - n+(n-1)+(n-2)+(n-3)+(n-4)+1 kadar işlem yapılır.Bu işlemin formülü:[n(n+1)]/2 (birden n'e kadar olan sayıların toplamı)sadeleştirdiğimizde ise (n²+n)/2
 - Big-o Notationda domine eden fonksiyonu aldığımız için ````n²```` değerini alırız.
+### Big-O değeri = O(n²)
+***
