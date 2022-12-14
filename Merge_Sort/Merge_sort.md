@@ -9,8 +9,8 @@
                /          \                    /         \    Daha sonra böldüğümüz dizileri tekrar ikiye böleriz.
               /            \                  /           \
        [16,21]              [11]        [8,12]             [22]
-              \            /                  \           /  <b>Elde edilen diziler 2 veya daha az eleman sayısına ulaştığı için bölme işlemini durduruz.
-               \          /                    \         /   Alt dizileri kendi içinde sıralarız. </b>
+              \            /                  \           /  Elde edilen diziler 2 veya daha az eleman sayısına ulaştığı için bölme işlemini durduruz.
+               \          /                    \         /   Alt dizileri kendi içinde sıralarız.
                 [11,16,21]                      [8,12,22]                       
                           \                    /
                            \                  /              Sıralı iki alt diziyi tek bir sıralı dizi olacak şekilde birleştiririz.
