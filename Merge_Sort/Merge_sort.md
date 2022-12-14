@@ -29,7 +29,7 @@
                /          \                    /         \  Daha sonra böldüğümüz dizileri tekrar ikiye böleriz.
               /            \                  /           \
        [16,21]              [11]            [8,12]        [22]
-       /      \             /               /    \         /    Tek elemanlı diziler elde edene kadar devam ederiz.
+       /      \             /              /     \         /    Tek elemanlı diziler elde edene kadar devam ederiz.
       /        \           /              /       \       /        
     [16]      [21]       [11]            [8]     [12]    [22]      
       \        /           \              \         /      \    Elde ettiğimiz dizileri adım adım birleştirme işlemi yaparız.
