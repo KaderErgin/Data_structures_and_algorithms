@@ -3,9 +3,9 @@
 ### 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
                          
                             [16,21,11,8,12,22]
-                           /                  \   ilk önce sayı dizisini ikiye böleriz.   
+                           /                  \       İlk önce sayı dizisini ikiye böleriz.   
                           /                    \              
                 [16,21,11]                      [8,12,22]
-               /          \                    /         \
+               /          \                    /         \  Daha sonra böldüğümüz dizileri bir daha ikiye böleriz.
               /            \                  /           \
        [16,21]              [11]        [8,12]             [22]
