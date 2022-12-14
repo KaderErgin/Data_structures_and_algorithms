@@ -4,4 +4,4 @@
                          
                             [16,21,11,8,12,22]
                            /                  \      
-                          /                    \  <b> ilk önce sayı dizisini ikiye böleriz.</b>
+                          /                    \  <b> ile </b>
