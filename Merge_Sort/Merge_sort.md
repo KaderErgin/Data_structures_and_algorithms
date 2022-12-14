@@ -3,8 +3,7 @@
 ### 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
                 
 
-                [11,16,21]                      [8,12,22]                       
-                          \                    /
+               
                            \                  /              Sıralı iki alt diziyi tek bir sıralı dizi olacak şekilde birleştiririz.
                             [8,11,12,16,21,22]
                             
