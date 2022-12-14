@@ -1,6 +1,7 @@
 ### [16,21,11,8,12,22] -> Merge Sort
 ***
 ### 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+<b>[]</b>
                           <b> ilk  </b>
                           /                    \
                 [16,21,11]                      [8,12,22]
