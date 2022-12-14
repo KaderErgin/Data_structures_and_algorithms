@@ -12,8 +12,8 @@
               \            /                  \           /  Elde edilen diziler 2 veya daha az eleman sayısına ulaştığı için bölme işlemini durduruz.
                \          /                    \         /   Alt dizileri kendi içinde sıralarız. 
                 [11,16,21]                      [8,12,22]                       
-                          \                    /             Sıralı iki alt diziyi tek bir sıralı dizi olacak şekilde birleştiririz.
-                           \                  /
+                          \                    /
+                           \                  /             Sıralı iki alt diziyi tek bir sıralı dizi olacak şekilde birleştiririz.
                             [8,11,12,16,21,22]
 ***
 #### 2) Big-O gösterimini yazınız.
