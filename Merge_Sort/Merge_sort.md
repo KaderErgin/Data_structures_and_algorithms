@@ -22,8 +22,6 @@
                              [8,11,12,16,21,22]
                              
 ***                         
-
-***
 #### 2) Big-O gösterimini yazınız.
 2^x=n -> logn=x  <br>
 <b>```O(nlogn)``` <br></b>
