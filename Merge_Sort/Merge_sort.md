@@ -19,4 +19,5 @@
 #### 2) Big-O gösterimini yazınız.
 2^x=n -> logn=x  <br>
 <b>```O(nlogn)``` <br></b>
+
 [Patika.dev](https://app.patika.dev/kadergin)
