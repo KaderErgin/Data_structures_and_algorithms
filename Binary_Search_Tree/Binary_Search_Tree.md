@@ -10,7 +10,7 @@
                 /
                5             -> 1. Düğüm Satırı
                
-- ```1```, 7 ve 5'ten küçük olduğu için  2. Düğüm Satırı'nda 5'in sol tarafında yer alır.  
+-<b> ```1```, 7 ve 5'ten küçük olduğu için  2. Düğüm Satırı'nda 5'in sol tarafında yer alır.  </b>
 
                7            -> Root Satırı
               /
