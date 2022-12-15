@@ -20,7 +20,7 @@
           /
          1                  -> 2. Düğüm Satırı
 
-- ```8```, 7'den büyüktür, dolayısıyla 1. Düğüm Satırı'nda 7'nin sağ tarafında olacaktır.            
+- ```8```, 7'den büyük olduğu için 1. Düğüm Satırı'nda 7'nin sağ tarafında yer alır.            
         
                   7           -> Root Satırı
                  / \
@@ -30,7 +30,7 @@
              /
             1                 -> 2. Düğüm Satırı
 
-- ```3```, 7 ve 5'ten küçüktür ancak 1'den büyüktür, dolayısıyla 3. Düğüm Satırı'nda 1'in sağ tarafında olacaktır.   
+- ```3```, 7 ve 5'ten küçüktür ama  1'den büyük olduğu için  3. Düğüm Satırı'nda 1'in sağ tarafında yer alır.   
         
                   7           -> Root Satırı
                  / \
@@ -43,7 +43,7 @@
               \
                3              -> 3. Düğüm Satırı
                
-- ```6```, 7'den küçüktür ancak 5'ten büyüktür, dolayısıyla 2. Düğüm Satırı'nda 5'in sağ tarafında olacaktır.   
+- ```6```, 7'den küçüktür ama 5'ten büyük olduğu için  2. Düğüm Satırı'nda 5'in sağ tarafında yer alır.   
         
                   7          -> Root Satırı
                  / \
@@ -56,7 +56,7 @@
               \
                3             -> 3. Düğüm Satırı
                
-- ```0```, 7, 5, ve 1'den küçüktür, dolayısıyla 3. Düğüm Satırı'nda 1'in sol tarafında olacaktır.
+- ```0```, 7, 5, ve 1'den küçük olduğu için 3. Düğüm Satırı'nda 1'in sol tarafında yer alır.
                   
                   7          -> Root Satırı
                  / \
@@ -69,7 +69,7 @@
           /   \
          0     3             -> 3. Düğüm Satırı
          
-- ```9```, 7 ve 8'den büyükyür, dolayısıyla 2. Düğüm Satırı'nda 8'in sağ tarafında olacaktır.
+- ```9```, 7 ve 8'den büyük olduğu için 2. Düğüm Satırı'nda 8'in sağ tarafında yer alır.
 
                   7          -> Root Satırı
                  / \
@@ -82,7 +82,7 @@
           /   \
          0     3             -> 3. Düğüm Satırı
          
- - ```4```, 7 ve 5'ten küçüktür ancak 1 ve 3'ten büyüktür, dolayısıyla 4. Düğüm Satırı'nda 3'ün sağ tarafında olacaktır. 
+ - ```4```, 7 ve 5'ten küçüktür ama 1 ve 3'ten büyük olduğu için 4. Düğüm Satırı'nda 3'ün sağ tarafında yer alır. 
 
                   7          -> Root Satırı
                  / \
@@ -99,7 +99,7 @@
                   4          -> 4. Düğüm Satırı
                   
  
- - ```2```, 7 ve 5'ten küçük, 1'den büyük ve 3'ten küçüktür, dolayısıyla 4. Düğüm Satırı'nda 3'ün sol tarafında olacaktır.
+ - ```2```, 7 ve 5'ten küçük 1'den büyük ve 3'ten küçük olduğu için 4. Düğüm Satırı'nda 3'ün sol tarafında yer alır.
 
                   7          -> Root Satırı
                  / \
