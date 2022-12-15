@@ -5,10 +5,10 @@
 - ```Root -> 7``` alırsak.
 -  <b>```5```</b>, 7'den küçük olduğu için 1. Düğüm Satırı'nda 7'nin sol tarafında yer alır.
 
-                    7         -> Root Satırı
+                    7          -> Root Satırı
                    /
                   /
-                 5            -> 1. Düğüm Satırı
+                 5             -> 1. Düğüm Satırı
                
 - <b> ```1``` </b>, 7 ve 5'ten küçük olduğu için  2. Düğüm Satırı'nda 5'in sol tarafında yer alır. 
 
