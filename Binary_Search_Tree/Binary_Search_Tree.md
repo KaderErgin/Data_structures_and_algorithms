@@ -22,10 +22,10 @@
 
 - ```8```, 7'den büyüktür, dolayısıyla 1. Düğüm Satırı'nda 7'nin sağ tarafında olacaktır.            
         
-        7                   -> Root Satırı
-       / \
-      /   \
-     5     8               -> 1. Düğüm Satırı
-    /
-   /
-  1                        -> 2. Düğüm Satırı
+                  7           -> Root Satırı
+                 / \
+                /   \
+               5     8        -> 1. Düğüm Satırı
+              /
+             /
+            1                 -> 2. Düğüm Satırı
