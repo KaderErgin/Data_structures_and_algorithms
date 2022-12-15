@@ -2,7 +2,7 @@
 ### [7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 ***
 ##### Root'un sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar yer alır.
-- ```Root -> 7``` alırsak.
+- <b>```Root -> 7 alırsak``` </b>.
 -  <b>```5```</b>, 7'den küçük olduğu için 1. Düğüm Satırı'nda 7'nin sol tarafında yer alır.
 
                     7          -> Root Satırı
