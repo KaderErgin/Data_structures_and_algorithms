@@ -5,17 +5,27 @@
 - ```Root -> 7``` alırsak.
 -  ```5```, 7'den küçük olduğu için 1. Düğüm Satırı'nda 7'nin sol tarafında yer alır.
 
-                   7         -> Root Satırı
+                  7          -> Root Satırı
                  /
                 /
                5             -> 1. Düğüm Satırı
                
 - ```1```, 7 ve 5'ten küçük olduğu için  2. Düğüm Satırı'nda 5'in sol tarafında yer alır.  
 
-                7           -> Root Satırı
+               7            -> Root Satırı
               /
              /
             5               -> 1. Düğüm Satırı
            /
           /
          1                  -> 2. Düğüm Satırı
+
+- ```8```, 7'den büyüktür, dolayısıyla 1. Düğüm Satırı'nda 7'nin sağ tarafında olacaktır.            
+        
+        7                   -> Root Satırı
+       / \
+      /   \
+     5     8               -> 1. Düğüm Satırı
+    /
+   /
+  1                        -> 2. Düğüm Satırı
