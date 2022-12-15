@@ -3,7 +3,7 @@
 ***
 ##### Root'un sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar yer alır.
 - ```Root -> 7``` alırsak.
--  ```5```, 7'den küçük olduğu için 1. Düğüm Satırı'nda 7'nin sol tarafında yer alır.
+-  <b>```5```</b>, 7'den küçük olduğu için 1. Düğüm Satırı'nda 7'nin sol tarafında yer alır.
 
                     7         -> Root Satırı
                    /
@@ -20,7 +20,7 @@
               /
              1                -> 2. Düğüm Satırı
 
-- ```8```, 7'den büyük olduğu için 1. Düğüm Satırı'nda 7'nin sağ tarafında yer alır.            
+- <b>```8```</b>, 7'den büyük olduğu için 1. Düğüm Satırı'nda 7'nin sağ tarafında yer alır.            
         
                   7           -> Root Satırı
                  / \
