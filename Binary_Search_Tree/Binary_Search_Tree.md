@@ -116,5 +116,7 @@
             2     4          -> 4. Düğüm Satırı
                   
 
+ <br>
  
+ [Patika.dev](https://app.patika.dev/kadergin)
  
