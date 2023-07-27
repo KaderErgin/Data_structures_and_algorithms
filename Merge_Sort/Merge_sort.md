@@ -19,7 +19,7 @@
               \            /                    \          /  Dizi elemanlarını kıyaslayarak sıralanmış diziler elde ederiz.
                \          /                      \        /
                 [11,16,21]                       [8,12,22]
-                          \                     /    En son aşamada tek bir sıralanmmış dizi olacak şekilde birleştirmiş oluruz. 
+                          \                     /    En son aşamada tek bir sıralanmış dizi olacak şekilde birleştirmiş oluruz. 
                            \                   / 
                              [8,11,12,16,21,22]
 ***                             
