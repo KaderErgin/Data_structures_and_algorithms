@@ -118,5 +118,5 @@
 
  <br>
  
- [Patika.dev](https://app.patika.dev/kadergin)
+### [patika](https://academy.patika.dev/tr/profile)
  
