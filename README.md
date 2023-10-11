@@ -1,3 +1,6 @@
-# Data_structures_and_algorithms
-Data structures and algorithms studies
-### [patika](https://academy.patika.dev/tr/profile)
+# Data_Structures_and_Algorithms_Studies
+### 1. [Data_Structures_and_Algorithms_Study_1()]()
+### 2. [Data_Structures_and_Algorithms_Study_2()]()
+### 3. [Data_Structures_and_Algorithms_Study_3()]()  
+
+
